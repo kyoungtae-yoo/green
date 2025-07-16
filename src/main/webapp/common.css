@@ -1,0 +1,7 @@
+@charset "UTF-8";
+th {background-color: #ffbfff; padding: 10px; border:1px solid pink;}
+td {background-color: #79ffbc; padding: 10px; border:1px solid pink; }
+caption{  font-size:30px; font-weight:bold; line-height: 150%;}
+table{ background-color: #79ffbc; border:1px solid pink; width:90%; }
+body{ background-color:#bfffff;}
+#err{ color:red; font-weight:bold; }
